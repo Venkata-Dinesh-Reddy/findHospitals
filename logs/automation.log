@@ -1,0 +1,38 @@
+15:39:25.623 [main] INFO  testCases.TC_01 - ****Starting Testcase One sanity testing****
+15:39:25.633 [main] INFO  testCases.TC_01 - **Practo Url opended Successfully**
+15:39:25.807 [main] INFO  testCases.TC_01 - ****Starting Testcase two extracting doctor detials****
+15:40:10.740 [main] INFO  testCases.TC_02 - ****Starting Testcase Three sanity testing****
+15:40:10.740 [main] INFO  testCases.TC_02 - **Surgies page opended Successfully**
+15:40:10.749 [main] INFO  testCases.TC_02 - ****Starting Testcase Four extracting Surgiers****
+15:40:10.751 [main] INFO  testCases.TC_02 - ****Surgieres list printed****
+15:40:12.582 [main] INFO  testCases.TC_02 - ***TestCase two excuted successfully***
+15:40:35.119 [main] INFO  testCases.TC_03 - ****Starting Testcase five sanity testing****
+15:40:35.120 [main] INFO  testCases.TC_03 - **Demo form page opended Successfully**
+15:40:35.126 [main] INFO  testCases.TC_03 - ****Starting Testcase Six entering invalid detials in form****
+15:40:38.924 [main] INFO  testCases.TC_03 - ****submit button disabled****
+15:40:38.924 [main] INFO  testCases.TC_03 - ***TestCase three excuted successfully***
+15:40:59.516 [main] INFO  testCases.TC_04 - ****Starting Testcase Seven sanity testing****
+15:40:59.516 [main] INFO  testCases.TC_04 - **Practo Url opended Successfully**
+15:40:59.522 [main] INFO  testCases.TC_04 - ****Starting Testcase Eight entering valid detials in form****
+15:41:01.508 [main] INFO  testCases.TC_04 - ****submit button enabled****
+15:41:28.489 [main] INFO  testCases.TC_04 - ***TestCase three excuted successfully***
+15:48:45.399 [main] INFO  testCases.TC_01 - ****Starting Testcase One sanity testing****
+15:48:45.406 [main] INFO  testCases.TC_01 - **Practo Url opended Successfully**
+15:48:45.518 [main] INFO  testCases.TC_01 - ****Starting Testcase two extracting doctor detials****
+15:49:17.017 [main] INFO  testCases.TC_01 - First five doctor detials entered succesfully in Excel
+15:49:17.017 [main] INFO  testCases.TC_01 - ***TestCase one excuted successfully***
+15:49:32.218 [main] INFO  testCases.TC_02 - ****Starting Testcase Three sanity testing****
+15:49:32.218 [main] INFO  testCases.TC_02 - **Surgies page opended Successfully**
+15:49:32.226 [main] INFO  testCases.TC_02 - ****Starting Testcase Four extracting Surgiers****
+15:49:32.226 [main] INFO  testCases.TC_02 - ****Surgieres list printed****
+15:49:33.760 [main] INFO  testCases.TC_02 - ***TestCase two excuted successfully***
+15:49:54.860 [main] INFO  testCases.TC_03 - ****Starting Testcase five sanity testing****
+15:49:54.860 [main] INFO  testCases.TC_03 - **Demo form page opended Successfully**
+15:49:54.867 [main] INFO  testCases.TC_03 - ****Starting Testcase Six entering invalid detials in form****
+15:49:56.540 [main] INFO  testCases.TC_03 - ****submit button disabled****
+15:49:56.541 [main] INFO  testCases.TC_03 - ***TestCase three excuted successfully***
+15:50:18.335 [main] INFO  testCases.TC_04 - ****Starting Testcase Seven sanity testing****
+15:50:18.336 [main] INFO  testCases.TC_04 - **Practo Url opended Successfully**
+15:50:18.341 [main] INFO  testCases.TC_04 - ****Starting Testcase Eight entering valid detials in form****
+15:50:20.010 [main] INFO  testCases.TC_04 - ****submit button enabled****
+15:50:53.522 [main] INFO  testCases.TC_04 - ***TestCase three excuted successfully***
